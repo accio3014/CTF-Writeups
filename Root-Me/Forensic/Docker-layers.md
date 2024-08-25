@@ -56,7 +56,7 @@ Now, I need to decrypt this message to get the flag.<br />
 <br />
 
 
-<img src="https://github.com/user-attachments/assets/60feff2a-225e-425b-b2ee-52ce3f4c11f6" width="100%">
+<img src="https://github.com/user-attachments/assets/6c8e94d9-bd6a-4eb8-851b-a2f33a820c3d" width="100%">
 
 ```
 $ openssl enc -d -aes-256-cbc -iter 10 -pass pass:$(cat ./pass.txt) -in flag.enc -out flag.txt
