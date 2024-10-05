@@ -1,4 +1,3 @@
-----
 - [Command \& Control - level 3](#command--control---level-3)
   - [Problem Link](#problem-link)
   - [Solution](#solution)
