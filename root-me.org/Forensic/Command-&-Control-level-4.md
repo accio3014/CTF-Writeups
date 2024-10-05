@@ -27,7 +27,7 @@ $ tar -zxvf ch2.tar
 The downloaded file was compressed in two different formats, so I extracted them. After extracting, I found a memory dump file.<br />
 Since the flag format is in the form of "IP:PORT", Attempted network scanning using the Volatility3 tool. However, none of the IPs found in the results matched the flag.<br />
 <br />
-Used Volatility 2 instead of Volatility 3. This is because the results can very between versions, and there are certain plugins available only in VOlatility 2.<br />
+Used Volatility 2 instead of Volatility 3. This is because the results can very between versions, and there are certain plugins available only in Volatility 2.<br />
 <br />
 <br />
 
