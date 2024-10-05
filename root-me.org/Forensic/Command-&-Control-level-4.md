@@ -18,7 +18,7 @@ Click the "Download the challenge" button to download the problem file. For the 
 <br />
 
 
-<img src="https://github.com/user-attachments/assets/e8f7b65c-41d4-431e-823c-84bf66d7b2ca" width="70%">
+<img src="https://github.com/user-attachments/assets/e8f7b65c-41d4-431e-823c-84bf66d7b2ca" width="100%">
 
 ```
 $ bzip2 -d ch2.tbz2
