@@ -7,7 +7,7 @@
 
 # Command & Control - level 4
 ## Problem Link
-<a href="https://www.root-me.org/en/Challenges/Forensic/Command-Control-level-4">Command & Control - level 4</a><br />
+<a href="https://www.root-me.org/en/Challenges/Forensic/Command-Control-level-4" target="_blank">Command & Control - level 4</a><br />
 <br />
 <br />
 
@@ -66,8 +66,8 @@ After using "grep" with the name of the suspicious program, the IP and PORT were
 
 
 ## Reference
-<a href="https://downloads.volatilityfoundation.org/releases/2.4/CheatSheet_v2.4.pdf">Volatility2 manual</a><br />
-<a href="https://book.hacktricks.xyz/generic-methodologies-and-resources/basic-forensic-methodology/memory-dump-analysis/volatility-cheatsheet">Volatility3 manual</a><br />
+<a href="https://downloads.volatilityfoundation.org/releases/2.4/CheatSheet_v2.4.pdf" target="_blank">Volatility2 manual</a><br />
+<a href="https://book.hacktricks.xyz/generic-methodologies-and-resources/basic-forensic-methodology/memory-dump-analysis/volatility-cheatsheet" target="_blank">Volatility3 manual</a><br />
 <br />
 <br />
 
