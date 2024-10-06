@@ -1,8 +1,16 @@
 - [Command \& Control - level 2](#command--control---level-2)
+  - [Problem Link](#problem-link)
+  - [Solution](#solution)
   - [FLAG](#flag)
 ---
 
 # Command & Control - level 2
+## Problem Link
+<a href="https://www.root-me.org/en/Challenges/Forensic/Command-Control-level-2">Command & Control - level 2</a>
+<br />
+<br />
+
+## Solution
 <img src="https://github.com/user-attachments/assets/7519683a-c4e0-451c-992e-0b8e6f7dc7c5" width="100%">
 Click the "Start the challenge" button to download the problem file.<br />
 <br />
