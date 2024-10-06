@@ -6,7 +6,7 @@
 
 # Command & Control - level 2
 ## Problem Link
-<a href="https://www.root-me.org/en/Challenges/Forensic/Command-Control-level-2">Command & Control - level 2</a>
+<a href="https://www.root-me.org/en/Challenges/Forensic/Command-Control-level-2" target="_blank">Command & Control - level 2</a>
 <br />
 <br />
 
